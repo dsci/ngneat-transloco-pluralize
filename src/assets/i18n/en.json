@@ -1,0 +1,10 @@
+{
+  "hello": "Hello",
+  "params": "Hello {{value}} english",
+  "some": {
+    "nested": {
+      "key": "nested key english"
+    }
+  },
+  "ordinal": "The {N, selectordinal, one{#st} two{#nd} few{#rd} other{#th}} message."
+}
