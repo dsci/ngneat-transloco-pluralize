@@ -1,0 +1,10 @@
+{
+  "hello": "Hallo",
+  "params": "Hallo {{value}} deutsch",
+  "some": {
+    "nested": {
+      "key": "eingerückter Schlüssel in Deutsch."
+    }
+  },
+  "ordinal": "Die {N, selectordinal, =1{erste} =2{zweite} =3{dritte} other{#.}} Nachricht"
+}

@@ -27,9 +27,9 @@ import { AppRoutingModule } from "./app-routing.module";
     {
       provide: TRANSLOCO_CONFIG,
       useValue: {
-        availableLangs: ["en", "es"],
+        availableLangs: ["en", "de"],
         reRenderOnLangChange: true,
-        fallbackLang: "es",
+        fallbackLang: "de",
         defaultLang: "en"
       } as TranslocoConfig
     }
